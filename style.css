@@ -1,0 +1,18 @@
+.table{
+    background-color: black;
+    color: white;
+    width: 680px;
+    align-items: center;
+    margin-left: 26%;
+    margin-top: 3%;
+}
+h2{
+    text-align: center;
+    color:ivory;
+    margin-top: 3%;
+
+}
+body{
+    background-image:url("./data.jpg");
+    background-size: cover;
+}
